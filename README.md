@@ -1,6 +1,7 @@
 # YOLOv4-Tiny
 This file is an object detection model for YOLOv4-Tiny.
-<br><a href="https://drive.google.com/file/d/1PDdNVQKyFCufWtF1ilGG_frqgV-hWk50/view?usp=sharing">Download</a>
+<br><a href="https://drive.google.com/file/d/1PDdNVQKyFCufWtF1ilGG_frqgV-hWk50/view?usp=sharing">Model Download</a>
+<br><a href="https://drive.google.com/file/d/1PDdNVQKyFCufWtF1ilGG_frqgV-hWk50/view?usp=sharing">Label Download</a>
 
 Recognizable List
 <table>
